@@ -5629,11 +5629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\AbelandColeProject\\AbelandColeProject\\AbelandColeProject.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\AbelandCoProject\\AbelandColeProject\\AbelandColeProject.csproj",
       "projectName": "AbelandColeProject",
-      "projectPath": "C:\\Users\\user\\source\\repos\\AbelandColeProject\\AbelandColeProject\\AbelandColeProject.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\AbelandCoProject\\AbelandColeProject\\AbelandColeProject.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\AbelandColeProject\\AbelandColeProject\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\AbelandCoProject\\AbelandColeProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
