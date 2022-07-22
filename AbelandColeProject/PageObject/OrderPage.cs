@@ -17,7 +17,7 @@ namespace AbelandColeProject.PageObject
         IWebDriver driver;
 
 
-        // Locating the address of WebElemwnts on the Webpages.
+        // Locating the address of WebElements on the Webpages.
 
 
         IWebElement AddSaltedButton => driver.FindElement(By.XPath("//input[@class='buttons cta-button']"));
