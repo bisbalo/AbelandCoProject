@@ -109,16 +109,16 @@ C:\Users\user\source\repos\AbelandColeProject\AbelandColeProject\obj\Debug\netco
 C:\Users\user\source\repos\AbelandColeProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.pdb
 C:\Users\user\source\repos\AbelandColeProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.genruntimeconfig.cache
 C:\Users\user\source\repos\AbelandColeProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
-C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\AbelandColeProject.deps.json
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\AbelandColeProject.runtimeconfig.json
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\AbelandColeProject.runtimeconfig.dev.json
@@ -211,7 +211,6 @@ C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\net
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.csproj.AssemblyReference.cache
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.AssemblyInfoInputs.cache
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.AssemblyInfo.cs
@@ -220,3 +219,4 @@ C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\net
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.dll
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.pdb
 C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\AbelandCoProject\AbelandColeProject\obj\Debug\netcoreapp3.1\AbelandColeProject.csproj.AssemblyReference.cache
